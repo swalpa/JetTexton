@@ -3,7 +3,7 @@ Unconstrained Texture Classification Using Efficient Jet Texton Learning
 
 ## Citation
 
-If you use this code in your research, we would appreciate a citation to the original [paper](paper.pdf):
+If you use this code in your research, we would appreciate a citation to the original paper:
 
 	@article{roy2019hybridsn,
             title={HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification},
