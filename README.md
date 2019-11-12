@@ -8,7 +8,7 @@ This work proposes a simple and effective texture recognition method that uses a
 
 ## Model
 
-<img src="Figure/GA.jpg"/,width="200" height="200"/>
+<img src="Figure/GA.jpg" width="200" height="200"/>
 
 ## Citation
 
