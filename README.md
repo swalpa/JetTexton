@@ -8,7 +8,7 @@ This work proposes a simple and effective texture recognition method that uses a
 
 ## Classification Model
 
-<img src="Figure/GA.jpg" width="1000" height="500"/>
+<img src="Figure/GA.jpg" width="1000" height="600"/>
 
 Fig. 1: The texture classification framework: (a) randomly selected training images and DtGs structure upto 2 nd order; (b) the scale normalized derivative responses, 6-jet known as local jet vector (LJV) for training images (a); (c) K-means clustering; (d) jet textons dictionary for training images of all class; (e) distribution of learned models; (f)-(g) test image and it’s jet representation; (h) distribution of test model; (i) matching using Nrs classifier
 
